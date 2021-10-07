@@ -8,7 +8,7 @@ Semua hal tentang bug bounty, penjelasan tentang bug dan cara menemukannya
 * #### [Rate Limit Bypass](https://github.com/sekolahsiber/bugbounty-indo/blob/main/rate-limit-bypass.md)
 * #### [Cross Site Scripting (XSS)](https://github.com/sekolahsiber/bugbounty-indo/blob/main/xss.md)
 * #### [Open Redirect](https://github.com/sekolahsiber/bugbounty-indo/blob/main/open-redirect.md)
-* #### CORS **(Coming Soon)**
+* #### [Cross Origin Resource Sharing (CORS)](https://github.com/sekolahsiber/bugbounty-indo/blob/main/cors.md)
 * #### CSRF **(Coming Soon)**
 * #### SQL Injection **(Coming Soon)**
 * #### IDOR **(Coming Soon)**
